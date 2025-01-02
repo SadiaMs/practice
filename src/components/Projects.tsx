@@ -6,7 +6,7 @@ const data= [
         id:0,
         title: 'Project 1',
         description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum non dui tincidunt ultricies.',
-        img: '/project1.jpg',
+        img: '/Project1.png',
 
         tags: ["React", "Node", "Typescript","Html","Css"],
 
@@ -16,7 +16,7 @@ const data= [
     id:1,
     title: 'Project 2',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum non dui tincidunt ultricies.',
-    img: '/project2.jpg',
+    img: '/Project2.png',
    
     tags: ["React", "Node", "Typescript","Html","Css"],
   },
@@ -24,16 +24,16 @@ const data= [
     id:2,
     title: 'Project 3',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum non dui tincidunt ultricies.',
-    img: '/project3.jpg',
+    img: '/Project3.png',
 
     tags: ["React", "Node", "Typescript","Html","Css"],
 
   },
   {
     id:3,
-    title: 'Project 4',
+    title: 'Project4',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum non dui tincidunt ultricies.',
-    img: '/project4.jpg',
+    img: '/Project4.png',
   
     tags: ["React", "Node", "Typescript","Html","Css"],
   },
@@ -41,7 +41,7 @@ const data= [
     id:4,
     title: 'Project 5',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum non dui tincidunt ultricies.',
-    img: '/project5.jpg',
+    img: '/project5 (2).png',
 
     tags: ["React", "Node", "Typescript","Html","Css"],
   },
@@ -49,7 +49,7 @@ const data= [
     id:5,
     title: 'Project 6',
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ac ipsum non dui tincidunt ultricies.',
-    img: '/project6.jpg',
+    img: '/Project6.png',
   
     tags: ["React", "Node", "Typescript","Html","Css"],
   },
