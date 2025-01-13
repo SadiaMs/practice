@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import React from 'react';
 
 const AboutUs: React.FC = () => {
@@ -43,7 +44,7 @@ const AboutUs: React.FC = () => {
             { name: 'Haziq', role: 'Project Manager', img: '/images/team3.jpg' },
           ].map((member) => (
             <div key={member.name} className="bg-blue-800 p-8 rounded-lg shadow-md">
-              <img
+              <Image width={400} height={400}
                 src={member.img}
                 alt={member.name}
                 className="w-24 h-24 rounded-full mx-auto mb-4"
